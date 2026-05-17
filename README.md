@@ -1,5 +1,7 @@
 # 🩺 Diabetes Prediction using Machine Learning
 
+[![Streamlit App](https://img.shields.io/badge/Streamlit-Live_App-red?logo=streamlit)](https://diabetes-prediction-prianshu.streamlit.app/)
+
 A Machine Learning project that predicts whether a patient is diabetic or not based on medical diagnostic measurements.
 
 This project demonstrates the complete ML workflow including:
